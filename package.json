@@ -1,0 +1,16 @@
+{
+  "name": "premium-lettuce-reject-nr5cc",
+  "productName": "premium-lettuce-reject-nr5cc",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "PC",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "31.2.1"
+  }
+}
